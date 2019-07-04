@@ -1,0 +1,23 @@
+exclude:
+  - 'scripts'
+  - 'Gemfile'
+  - 'README.md'
+  - 'vendor'
+  - 'eyecatch.rb'
+
+encoding: utf-8
+
+future: true
+
+gems:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+
+permalink: date
+
+kramdown:
+  input: GFM
+
+base-url: https://subtech.github.io

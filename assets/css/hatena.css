@@ -1,0 +1,20 @@
+.post h1 {
+  font-size: 1.5em;
+}
+
+.post h2 {
+  background: transparent url(/assets/images/main_h2_bg.gif) no-repeat right top;
+  font-size: 1em;
+  color: white;
+  padding: 5px;
+}
+
+h2 a {
+  color: white;
+}
+
+.post {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 1em;
+}
